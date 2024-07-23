@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;DataDrivenFramework&apos; to &apos;HybridFramework&apos;" description="Rename resource &apos;DataDrivenFramework&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/DataDrivenFramework" name="HybridFramework" stamp="1718950131644" updateReferences="true"/>
+</session>

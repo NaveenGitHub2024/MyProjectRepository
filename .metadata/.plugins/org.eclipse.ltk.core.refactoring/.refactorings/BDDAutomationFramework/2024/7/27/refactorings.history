@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BDDAutomationFramework/src/test/resources/features/regression/validateLoginPageUsingValidCredentials.feature&apos; to &apos;validateLoginPageFunctionality.feature&apos;" description="Rename resource &apos;validateLoginPageUsingValidCredentials.feature&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/test/resources/features/regression/validateLoginPageUsingValidCredentials.feature" name="validateLoginPageFunctionality.feature" stamp="1720162231194" updateReferences="true"/>
+</session>
